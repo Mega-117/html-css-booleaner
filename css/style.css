@@ -1,8 +1,12 @@
 header{
-    height: 100px;
+    height: 170px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+
+}
+
+#titolo{
+    margin-bottom: 0;
 }
 
 .logo{
