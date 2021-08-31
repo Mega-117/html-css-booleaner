@@ -1,5 +1,5 @@
 header{
-    height: 100px;
+    height: 200px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
     background-size: contain;
@@ -10,20 +10,36 @@ header{
     text-align: bottom;
 }
 
-.table-bg-azure{
-    background-color: #20a9e5;
+.text-grey{
+    color: grey;
 }
 
-.special{
+.subtitle{
+    font-size: 18px;
+}
+.info-article{
+    font-size: 12px;
+}
+
+#autore{
+    color: #36b1e7;
+}
+
+.yellow-bg{
+    background-color:yellow;
+}
+
+.table-head{
+    background-color: #20a9e5;
+    text-align: left;
+}
+
+.table-special{
     width: 50%;
 }
 
 .table-bg-ligth-azure{
     background-color: #b1e5f2;
-}
-
-.align-center{
-    text-align: center;
 }
 
 .img-footer{
