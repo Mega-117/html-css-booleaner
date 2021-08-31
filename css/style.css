@@ -9,3 +9,15 @@ header{
     width: 150px;
     text-align: bottom;
 }
+
+.table-bg-azure{
+    background-color: #20a9e5;
+}
+
+.special{
+    width: 50%;
+}
+
+.table-bg-ligth-azure{
+    background-color: #b1e5f2;
+}
