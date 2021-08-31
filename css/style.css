@@ -6,7 +6,9 @@ header{
 }
 
 .logo{
-    background-image: url(../img/logo.svg);
+    
+    width: 250px;
+    height: 100px;  
 }
 
 .text-grey{
